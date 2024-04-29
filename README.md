@@ -42,14 +42,14 @@ create table Mahasiswa (
     );
 ```
 
-![alt text](sspert7/ss1.png?raw=true)
+![alt text](ssp7/1.png)
 
 
 **Tampilkan hasil table :**
 
 `desc Mahasiswa;`
 
-![alt text](ssp7/1.png)
+![alt text]()
 
 **2. Buat script untuk table Dosen :**
 ```
