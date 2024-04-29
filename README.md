@@ -42,7 +42,7 @@ create table Mahasiswa (
     );
 ```
 
-![alt text](ss pert 7/ss1.png?raw=true)
+![alt text](sspert7/ss1.png?raw=true)
 
 
 **Tampilkan hasil table :**
