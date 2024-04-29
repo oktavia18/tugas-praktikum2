@@ -251,7 +251,7 @@ and jenis_kelamin='Perempuan';
 
 *Contoh :*
 
-`UPDATE biodata SET nama='Nurul', alamat='Setu' WHERE nim='1234';`
+`UPDATE biodata SET nama='okta', alamat='Setu' WHERE nim='1234';`
 
 ![alt text](Screenshot/23.png)
 
