@@ -49,7 +49,7 @@ create table Mahasiswa (
 
 `desc Mahasiswa;`
 
-![alt text](Screenshot/2.png)
+![alt text](ss pert 7/ss2.png)
 
 **2. Buat script untuk table Dosen :**
 ```
