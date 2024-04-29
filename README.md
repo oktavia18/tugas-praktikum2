@@ -263,7 +263,7 @@ and jenis_kelamin='Perempuan';
 
 `DELETE FROM biodata WHERE nim=‘1234’`
 
-![alt text](Screenshot/24.png)
+![alt text](ss pert 7/24.png)
 
 ***Apa bedanya penggunaan BETWEEN dan penggunaan operator >= dan <= ?***
 
