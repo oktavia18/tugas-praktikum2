@@ -49,7 +49,7 @@ create table Mahasiswa (
 
 `desc Mahasiswa;`
 
-![alt text]()
+![alt text](ssp7/2.png)
 
 **2. Buat script untuk table Dosen :**
 ```
@@ -59,13 +59,13 @@ create table Dosen (
     );
 ```
 
-![alt text](Screenshot/3.png)
+![alt text](ssp7/3.png)
 
 **Tampilkan tabel :**
 
 `desc Dosen;`
 
-![alt text](Screenshot/4.png)
+![alt text](ssp7/4.png)
 
 **3. Buat script untuk Mata kuliah :**
 ```
@@ -76,7 +76,7 @@ create table Matakuliah (
     );
 ```
 
-![alt text](Screenshot/5.png)
+![alt text](ssp7/5.png)
 
 **Tampilkan table :**
 
