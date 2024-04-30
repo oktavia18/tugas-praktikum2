@@ -243,7 +243,7 @@ and jenis_kelamin='Perempuan';
 
 `SELECT*FROM biodata;`
 
-![alt text](ssp7/22.png)
+![alt text]()
 
 **3. Mengubah data :**
 
