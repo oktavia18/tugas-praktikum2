@@ -207,19 +207,19 @@ or tgl_lahir<='2002-4-22'
 and jenis_kelamin='Perempuan';
 ```
 
-![alt text](Screenshot/18.png)
+![alt text](ssp7/18.png)
 
 **9. Menampilkan data nama dan jalan Mahasiswa saja dari tabel tersebut dengan cara sebagai berikut :**
 
 `select nama, jalan from Mahasiswa;`
 
-![alt text](Screenshot/19.png)
+![alt text](ssp7/19.png)
 
 **10. Menampilkan data Mahasiswa terurut berdasarkan nama dengan cara sebagai berikut :**
 
 `select*from Mahasiswa -> order by nama asc;`
 
-![alt text](Screenshot/20.png)
+![alt text](ssp7/20.png)
 
 # Evaluasi dan Pertanyaan
 
@@ -233,7 +233,7 @@ and jenis_kelamin='Perempuan';
 
 `INSERT INTO biodata (nim, nama, alamat) VALUE ('1234','Uyun','Bekasi');`
 
-![alt text](Screenshot/21.png)
+![alt text](ssp7/21.png)
 
 **2. Menampilkan data :**
 
@@ -243,7 +243,7 @@ and jenis_kelamin='Perempuan';
 
 `SELECT*FROM biodata;`
 
-![alt text](Screenshot/22.png)
+![alt text](ssp7/22.png)
 
 **3. Mengubah data :**
 
